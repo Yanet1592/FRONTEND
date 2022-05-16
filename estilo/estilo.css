@@ -1,0 +1,55 @@
+
+h1 {background-color: rgb(233,150,122); text-align:center;text-decoration:underline;}
+h2 {background-color: rgb(233,150,122); text-align:center;text-decoration:underline; color: black;}
+h3 {background-color: rgb(233,150,122); text-align:center;text-decoration:underline; color: black;}
+
+body {background-color: rgb(153,102,153);
+  background-image: url(../fondo/japon.jpg);
+  background-attachment: scroll;
+  background-position: center;}
+
+  p1 {background-color: white; black; font-family: Helvetica; font-size: medium; text-align: justify;}
+  p2 {background-color: white; black;text-align: justify;}
+  h2 {color: rgb(220,220,220); font-style: oblique; text-align: center;text-decoration: underline;}
+  ul {background-color:white;  color: black; font-size: larger;text-align: center;}
+
+
+  .parrafo {background-color: white; color: black; font-family: Verdana; font-size: medium; text-align: justify; text-shadow: white; }
+
+  .ramen1 {height: 40%; width: 40%; object-fit: contain; display: block; margin: 0px auto}
+
+  ol {background-color: white; black; font-size: larger;text-align: center;}
+
+  .mapa {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 25px;
+    height: 0;
+  }
+  .mapa iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+
+  .video {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 25px;
+    height: 0;
+  }
+  .video iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+
+.facebook {height: 10%; width: 10%;}
+.twitter {height: 10%; width: 10%;}
+.instagram {height: 10%; width: 10%;}
+.páginas {background-color: white;}
+.whatsapp {display: scroll; position: fixed;bottom:0px;right: 0px;height: 10%; width: 10%;}
